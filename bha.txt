@@ -4,5 +4,3 @@ data base
 instance
 database
 javahome
-000
-0000
